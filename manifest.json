@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Wikipedia search engine",
+  "version": "0.1",
+
+  "description": "Adds a search engine that searches wikipedia.org",
+  "homepage_url": "https://www.github.com/HarryWhitehorn/",
+  "icons": {
+    "48": "icons/wiki_icon-48.png",
+    "96": "icons/wiki_icon-96.png",
+    "128": "icons/wiki_icon-128.png"
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "55.0"
+    }
+  },
+
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "Wikipedia",
+      "search_url": "https://en.wikipedia.org/wiki/{searchTerms}",
+      "keyword": "wiki",
+      "favicon_url": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+      "is_default": false,
+      "encoding": "UTF-8"
+    }
+  }
+}
