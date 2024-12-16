@@ -4,7 +4,7 @@
   "version": "0.1",
 
   "description": "Adds a search engine that searches wikipedia.org",
-  "homepage_url": "https://www.github.com/HarryWhitehorn/",
+  "homepage_url": "https://github.com/HarryWhitehorn/firefox-wikipedia-search",
   "icons": {
     "48": "icons/wiki_icon-48.png",
     "96": "icons/wiki_icon-96.png",
