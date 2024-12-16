@@ -1,6 +1,7 @@
 # firefox-wikipedia-search
 
 [![Lint](https://github.com/HarryWhitehorn/firefox-wikipedia-search/actions/workflows/lint.yml/badge.svg)](https://github.com/HarryWhitehorn/firefox-wikipedia-search/actions/workflows/lint.yml)
+[![Build](https://github.com/HarryWhitehorn/firefox-wikipedia-search/actions/workflows/build.yml/badge.svg)](https://github.com/HarryWhitehorn/firefox-wikipedia-search/actions/workflows/build.yml)
 
 Firefox plugin to add wikipedia (en) as a search engine.
 
